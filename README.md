@@ -4,7 +4,7 @@
 
 Hello! I'm Anis, a passionate applied maths student with a keen interest in desktop developement. I love building efficient, scalable, and innovative solutions through code. 
 
-- 💻 Currently working on **Online university chatrooms**
+- 💻 Currently working on **online university chatrooms**
 - 🎯 Exploring **network developement**
 - 📖 Constantly learning and improving in **algorithms & optimizations**
 - 🚀 Open to collaborations on exciting projects!
